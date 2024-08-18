@@ -22,4 +22,11 @@ In the initial data preparation phase, we performed the following tasks:
 2. Handling missing values.
 3. Data cleaning and formatting.
 
+### Model development
+
+VLOOKUP: To bring in data from another sheet. Example: "=VLOOKUP([@Salesteamindex],Table3,2,FALSE)" its a reference to the brought in "Executive_Sales_Reporting" file.
+
+### Exploratory Data Analysis
+
+
 
