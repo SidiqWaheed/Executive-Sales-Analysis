@@ -11,5 +11,5 @@ The primary dataset used for this analysis is the "Executive_Sales_Reporting" fi
 
 ### Tool
 - Excel - Data cleaning: Cause this is a critical step in the data analysis pipeline.
-- VLOOKUP - 
-
+- VLOOKUP - Looks for a value in the leftmost column of a table, and then returns a value in the same row from a column you specify.
+- Snipping - for capturing images and importing it into GITHUB.
