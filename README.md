@@ -10,6 +10,16 @@ The "Documenting Household Essentials" project aims to create a comprehensive, u
 The primary dataset used for this analysis is the "Executive_Sales_Reporting" file, containing detailed information about each sale made by the company.
 
 ### Tool
-- Excel - Data cleaning: Cause this is a critical step in the data analysis pipeline.
+
+- Excel - Data cleaning: Cause this is a critical step in the data analysis pipeline. [Download here](https://microsoft.com)
 - VLOOKUP - Looks for a value in the leftmost column of a table, and then returns a value in the same row from a column you specify.
 - Snipping - for capturing images and importing it into GITHUB.
+
+### Data Quality Assessment & Cleaning 
+
+In the initial data preparation phase, we performed the following tasks:
+1. Data loading and inspection.
+2. Handling missing values.
+3. Data cleaning and formatting.
+
+
