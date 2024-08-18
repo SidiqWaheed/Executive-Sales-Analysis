@@ -9,3 +9,7 @@ The "Documenting Household Essentials" project aims to create a comprehensive, u
 
 The primary dataset used for this analysis is the "Executive_Sales_Reporting" file, containing detailed information about each sale made by the company.
 
+### Tool
+- Excel - Data cleaning: Cause this is a critical step in the data analysis pipeline.
+- VLOOKUP - 
+
