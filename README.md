@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/1ddc8283-7aeb-4da1-acf7-d70cf3f0e706)# Executive-Sales-Analysis
+# Executive-Sales-Analysis
 Documenting Household Essentials
 
 ### Project Overview
