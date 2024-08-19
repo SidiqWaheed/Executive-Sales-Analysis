@@ -34,16 +34,21 @@ VLOOKUP: To bring in data from another sheet. Example: "=VLOOKUP([@Salesteaminde
 - What is the sum of order quantity?
 - Who are the top 10 customers?
 - What are the sales region?
-- What's the product by revenue?
+- What's the product by unit price?
 - What's the sales team by unit by unit price?
 - What are the store type by order quantity?
 - What's the product name by store population?
 
 ### Result and findings 
 
+- Sum of order quantity: The total order quantity indicates that clocks are exceeding the order volume by 2,775 units, while wall frames are ranked lowest among the top 10 items ordered.
+- Sum of unit cost by product name: The total unit cost analysis reveals that clocks have the highest expenditure at $140,593 due to their high order volume, while collectibles have the lowest cost at $126,437
+- Top 10 store type customers: Among the top 10 customer types, the leading store, located in the city, has placed 87,285 orders, while the Metropolitan Government ranks lowest with 214 orders.
+- Sales region: In terms of sales regions, the Midwest is achieving the highest sales, accounting for 31% of total sales, while the West region is generating the lowest sales.
+- Product by unit price: In terms of unit price, clocks have the highest average selling price, exceeding other products by 21%, while phones have the lowest average selling price, trailing by 19%.
+- Sales team by unit price: Among the sales team members, Paul Holmes leads with the highest unit sales price, achieving $328,637, while Shawn Wallace has the lowest unit sales price at $311,658.
+- Store type by order quantity: Among store types, city locations generate the highest sales with an 80% share of total order quantities, while borough locations contribute the least.
+- Product name by store population: In terms of store population usage, phones are the leading product, generating $176,684,399 in revenue, while cocktail glasses rank the lowest.
 
-
-
-
-
+### Recommendations
 
