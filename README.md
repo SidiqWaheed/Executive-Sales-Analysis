@@ -30,3 +30,20 @@ VLOOKUP: To bring in data from another sheet. Example: "=VLOOKUP([@Salesteaminde
 
 ### Exploratory Data Analysis
 
+- What is the sum of unit cost by product name?
+- What is the sum of order quantity?
+- Who are the top 10 customers?
+- What are the sales region?
+- What's the product by revenue?
+- What's the sales team by unit by unit price?
+- What are the store type by order quantity?
+- What's the product name by store population?
+
+### Result and findings 
+
+
+
+
+
+
+
