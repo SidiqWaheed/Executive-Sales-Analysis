@@ -52,3 +52,22 @@ VLOOKUP: To bring in data from another sheet. Example: "=VLOOKUP([@Salesteaminde
 
 ### Recommendations
 
+1. For Clocks:
+- Inventory Management: Ensure that inventory levels for clocks are adequate to meet the higher demand and consider increasing stock if this trend continues.
+- Sales Analysis: Analyze the factors contributing to the high demand for clocks, such as promotions or seasonal trends, and adjust marketing strategies accordingly.
+2. For Wall Frames:
+- Promotional Efforts: Increase marketing and promotional activities to boost interest and sales in wall frames.
+- Product Review: Evaluate the product range and pricing of wall frames to ensure they meet customer preferences and competitive standards.
+
+1. For Clocks:
+- Cost Analysis: Examine the cost structure for clocks to identify any areas where expenses can be optimized. This may include negotiating with suppliers or evaluating the cost-effectiveness of production processes.
+- Pricing Strategy: Review the pricing strategy for clocks to ensure that it aligns with the high demand and contributes to profitability.
+2. For Collectibles:
+- Cost Evaluation: Assess the cost structure for collectibles to determine if there are opportunities to reduce costs or improve margins.
+- Market Strategy: Since collectibles have a lower cost and possibly lower sales volume, consider strategies to increase their visibility and attractiveness to boost sales. This could include targeted promotions or expanding the product line.
+
+
+
+
+
+
