@@ -28,5 +28,3 @@ VLOOKUP: To bring in data from another sheet. Example: "=VLOOKUP([@Salesteaminde
 
 ### Exploratory Data Analysis
 
-
-
