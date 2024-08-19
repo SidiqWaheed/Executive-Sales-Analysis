@@ -5,6 +5,8 @@ Documenting Household Essentials
 
 The "Documenting Household Essentials" project aims to create a comprehensive, user-friendly system for cataloging and managing household items. This project is designed to help users keep track of their essential items, manage inventory, and streamline household management tasks. By leveraging modern technology, this project will provide an efficient solution to avoid duplication, reduce waste, and ensure that necessary items are always on hand.
 
+![Screenshot 2024-08-19 121928](https://github.com/user-attachments/assets/b58e37ab-d585-484f-923f-761dea631302)
+
 ### Data source
 
 The primary dataset used for this analysis is the "Executive_Sales_Reporting" file, containing detailed information about each sale made by the company.
